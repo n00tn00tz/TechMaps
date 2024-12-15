@@ -1,0 +1,21 @@
+Maperitive version: Maperitive-2.4.3
+File:
+  Name: /opt/bbbike/extract/running/f9a656bed7655e509e7f0022a8cc5de6/planet_-71.81_42.27_0e6d11b0.osm.pbf
+  Format: PBF
+  Compression: none
+  Size: 129514
+Header:
+  Bounding boxes:
+    (-71.8159999,42.27,-71.7979999,42.278)
+  With history: no
+  Options:
+    generator=osmium/1.15.0
+    osmosis_replication_timestamp=2024-12-14T20:00:00Z
+    pbf_dense_nodes=true
+    pbf_optional_feature_0=Sort.Type_then_ID
+    sorting=Type_then_ID
+    timestamp=2024-12-14T20:00:00Z
+>>> Run Maperitive, map style: wireframe
+Gtk not found (missing LD_LIBRARY_PATH to libgtk-x11-2.0.so.0?), using built-in colorscheme
+1.54user 0.13system 0:01.41elapsed 118%CPU (0avgtext+0avgdata 146580maxresident)k
+89008inputs+32outputs (93major+42988minor)pagefaults 0swaps

@@ -1,0 +1,5 @@
+clear-map
+use-ruleset alias=wireframe
+apply-ruleset
+load-source /opt/bbbike/extract/running/f9a656bed7655e509e7f0022a8cc5de6/planet_-71.81_42.27_0e6d11b0.osm.pbf
+export-svg zoom=15 file=planet_-71.81_42.27_0e6d11b0-wireframe.svg scale=1
