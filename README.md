@@ -1,4 +1,3 @@
-# TechMaps
-Lasercut WPI Map Project 
-
-ChatGPT answer on how to export OSM data as layers: https://chatgpt.com/share/6744a101-c364-8000-80e9-f1f3630c64f6
+version https://git-lfs.github.com/spec/v1
+oid sha256:51aa47c435c1d3abad7a7a4ae6927fd0ab186c802634fa483145dac33f55b311
+size 153
